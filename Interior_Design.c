@@ -7,7 +7,7 @@ int main()
     {
         printf("%d",X1+Y1);
     }
-    else
+    else 
     {
         printf("%d",X2+Y2);
     }
